@@ -1,0 +1,2 @@
+Given a series of operations on a stack.
+Design the stack in such a way that at any time while performing the operations, we should get the minimum element in O(1) time complexity and O(n) space complexity.
